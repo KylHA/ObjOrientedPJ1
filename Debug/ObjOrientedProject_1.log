@@ -1,3 +1,2 @@
 ﻿  ObjOrientedProject_1.cpp
-c:\users\kylha\source\repos\objorientedproject_1\objorientedproject_1\objorientedproject_1.cpp(168): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: 'localtime' bildirimine bakın
+  ObjOrientedProject_1.vcxproj -> C:\Users\KylHA\source\repos\ObjOrientedProject_1\Debug\ObjOrientedProject_1.exe

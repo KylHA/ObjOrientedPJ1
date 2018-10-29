@@ -1,0 +1,10 @@
+files/odev_son.docx	14166	4
+files/odev1.docx	48262	2
+files/rapor.docx	52038	5
+files/son_rapor.docx	53889	2
+files/belge.docx	117786	1
+files/gecmis.docx	84050	2
+files/cizelge.pdf	97905	1
+files/haftalýk-program.pdf	62456	1
+files/sýnav-listesi.pdf	71808	2
+files/odev1.cpp	117442	6
