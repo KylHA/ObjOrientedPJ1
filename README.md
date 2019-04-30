@@ -1,1 +1,1 @@
-# ObjOrientedPJ1
+Simple file print example with structs.
